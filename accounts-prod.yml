@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MS BANK accounts related prod APIs hotreload 2"
+  message: "Welcome to MS BANK accounts related prod APIs hotreload 3"
   contactDetails:
     name: "Dunyamaliyev Elshan"
     email: "{cipher}5c0252d7c4b7e5978f9836dd00e40aaa623a0365978918643ffedc8cb3ff5d8d"
