@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MS BANK accounts related prod APIs "
   contactDetails:
     name: "Dunyamaliyev Elshan"
-    email: "5c0252d7c4b7e5978f9836dd00e40aaa623a0365978918643ffedc8cb3ff5d8d"
+    email: "{cipher}5c0252d7c4b7e5978f9836dd00e40aaa623a0365978918643ffedc8cb3ff5d8d"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
